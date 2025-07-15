@@ -84,7 +84,3 @@ function reset() {
   [hours, minutes, seconds] = [0, 0, 0];
   updateDisplay();
 }
-## 🚀 Live Demo
-
-Check out the live demo here:  
-[Stopwatch App Live Demo](https://muskanpandey2103.github.io/stopwatch-app/)
